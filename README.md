@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 <div id="header" align="center">
   
-  <img src="https://media.giphy.com/media/lOgu1OnjYF2GHBfRU4/giphy.gif" width="100"/>
-  <p> Salut! je suis Elom Laurent😄 </p>
+  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100"/>
+  <p> Hi! I am Elom Laurent😄 </p>
   <p> I am currently a student in web and mobile web development for a particular program: that of the OIF <br>(International Organization of  Francophonie) <br> I would like to do Back-end Development and later become a Fullstack. </p>
   <div id="badges">
   <a href="your-linkedin-URL">
