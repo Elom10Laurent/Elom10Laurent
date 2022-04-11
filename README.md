@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   
   <img src="https://media.giphy.com/media/lOgu1OnjYF2GHBfRU4/giphy.gif" width="100"/>
   <p> Salut! je suis Elom Laurent😄 </p>
-  <p> Je suis presentement Etudiant en developement web et web mobile d'un programme particulier: celui de L'OIF(Organisation internationale de la Francophonie ) <br> Je jaimerais faire du Back-end Developpement et devenir plus tard un Fullstack </p>
+  <p> Je suis presentement Etudiant en developement web et web mobile d'un programme particulier: celui de L'OIF(Organisation internationale de la Francophonie ) <br> Je jaimerais faire du Back-end Developpement et devenir plus tard un Fullstack. </p>
   <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
