@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   
   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100"/>
-  <p> Hi! I am Elom Laurent😄 </p>
+  <p> Hi! I am Elom Laurent &#128516; </p>
   <p> I am currently a student in web and mobile web development for a particular program: that of the OIF <br>(International Organization of  Francophonie) <br> I would like to become a Fullstack Developer. </p>
   <div id="badges">
   <a href="your-linkedin-URL">
@@ -42,4 +42,3 @@ Here are some ideas to get you started:
 
 :mailbox:How to reach me: [![Email Badge](https://img.shields.io/badge/E-mail-blue?style=flat&logo=Email&logoColor=white)](laziagbenyo@gmail.com)
 <div>
-  
